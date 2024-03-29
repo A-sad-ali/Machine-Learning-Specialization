@@ -53,4 +53,4 @@ In the last course of the specialization, you'll be able to:
 * Build recommender systems with a collaborative filtering approach and a content-based deep learning method
 ---
 ## Certificates
-1. [Machine Learning Specialization](https://github.com/A-sad-ali/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Machine%20Learning.pdf)
+1. [Machine Learning Specialization](https://github.com/A-sad-ali/Machine-Learning-Specialization/tree/master/Certificates/Machine%20Learning.pdf)
