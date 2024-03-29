@@ -36,17 +36,17 @@ By the end of this Specialization, you will be ready to:
 * Build a deep reinforcement learning model.
 ---
 ## Outline of Machine Learning Specialization Course
-### [Course 1 - Supervised Machine Learning: Regression and Classification:](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification)
+### [Course 1 - Supervised Machine Learning: Regression and Classification:](https://github.com/A-sad-ali/Machine-Learning-Specialization/tree/master/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification)
 In the first course of the specialization, you'll:
 * Have a good understanding of the concepts of Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering, Gradient Descent,...
 * Build simple machine learning models in Python using popular machine learning libraries NumPy & scikit-learn.
 * Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression.
-### [Course 2 - Advanced Learning Algorithms:](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms)
+### [Course 2 - Advanced Learning Algorithms:](https://github.com/A-sad-ali/Machine-Learning-Specialization/tree/master/Course%202%20-%20Advanced%20Learning%20Algorithms)
 In the second course of the specialization, you'll able to:
 * Build and train a neural network with TensorFlow to perform multi-class classification.
 * Apply best practices for machine learning development so that your models generalize to data and tasks in the real world.
 * Build and use decision trees and tree ensemble methods, including random forests and boosted trees.
-### [Course 3 - Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
+### [Course 3 - Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/A-sad-ali/Machine-Learning-Specialization/tree/master/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
 In the last course of the specialization, you'll be able to:
 * Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection
 * Build a deep reinforcement learning model
