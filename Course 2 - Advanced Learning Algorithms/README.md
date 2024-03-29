@@ -1,0 +1,31 @@
+## Advanced Learning Algorithms
+---
+* [Week 1](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201)
+  * [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Labs)
+     * [Neurons and Layers](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
+     * [Simple Neural Network - Coffee Roasting](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
+     * [Simple Neural Network - Coffee Roasting Using Numpy](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
+  * [Practice Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Practice%20Labs)
+      * [Neural Networks for Handwritten Digit Recognition, Binary](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Practice%20Labs/C2_W1_Assignment.ipynb)
+---
+* [Week 2](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%202)
+  * [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%202/Labs)
+     * [ReLU](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%202/Labs/C2_W2_Relu.ipynb)
+     * [Softmax Regression](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%202/Labs/C2_W2_SoftMax.ipynb)
+     * [Multiclass Classification](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%202/Labs/C2_W2_Multiclass_TF.ipynb)
+  * [Practice Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%202/Practice%20Labs)
+     * [Neural Networks for Handwritten Digit Recognition, Multiclass](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%202/Practice%20Labs/C2_W2_Assignment.ipynb)
+---
+* [Week 3](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%203)
+  * [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%203/Labs)
+     * [Model Evaluation and Selection](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%203/Labs/C2W3_Lab_01_Model_Evaluation_and_Selection.ipynb)
+     * [Diagnosing Bias and Variance](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%203/Labs/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)
+  * [Practice Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%203/Practice%20Labs)
+     * [Advice for Applying Machine Learning](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%203/Practice%20Labs/C2_W3_Assignment.ipynb)
+---
+* [Week 4](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%204)
+  * [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%204/Labs)
+     * [Decision Trees](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%204/Labs/C2_W4_Lab_01_Decision_Trees.ipynb)
+     * [Trees Ensemble](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%204/Labs/C2_W4_Lab_02_Tree_Ensemble.ipynb)
+  * [Practice Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%204/Practice%20Labs)
+     * [Decision Trees](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%204/Practice%20Labs/C2_W4_Decision_Tree_with_Markdown.ipynb)
