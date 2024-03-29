@@ -1,7 +1,7 @@
 # [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#courses)
 
 <center>
-  <img src="https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Resources/Title.png" alt="The title">
+  <img src="https://github.com/A-sad-ali/Coursera-Machine-Learning-Specialization/blob/main/Resources/Title.png" alt="The title">
 </center>
 Contains Optional Labs and Solutions for Programming Assignments for the <a href = "https://www.coursera.org/specializations/machine-learning-introduction?#outcomes" target = "_blank">Machine Learning Specialization</a> (Updated) by Prof. Andrew NG
 
@@ -53,7 +53,4 @@ In the last course of the specialization, you'll be able to:
 * Build recommender systems with a collaborative filtering approach and a content-based deep learning method
 ---
 ## Certificates
-1. [Machine Learning Specialization](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Machine%20Learning.pdf)
-2. [Supervised Machine Learning: Regression and Classification](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification%20.pdf)
-3. [Advanced Learning Algorithms](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Advanced%20Learning%20Algorithms.pdf)
-4. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning.pdf)
+1. [Machine Learning Specialization](https://github.com/A-sad-ali/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Machine%20Learning.pdf)
