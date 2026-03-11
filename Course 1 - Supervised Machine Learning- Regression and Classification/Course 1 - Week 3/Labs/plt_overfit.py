@@ -333,7 +333,7 @@ class overfit_example():
         self.X_mapped_scaled, self.X_mu, self.X_sigma  = zscore_normalize_features(self.X_mapped)
 
         #linear_model = LinearRegression()
-        linear_model = Ridge(alpha=self.lambda_, normalize=True, max_iter=10000)
+        linear_model = Ridge(alpha=self.lambda_, max_iter=10000)
         linear_model.fit(self.X_mapped_scaled, self.y )
         self.w = linear_model.coef_.reshape(-1,)
         self.b = linear_model.intercept_
