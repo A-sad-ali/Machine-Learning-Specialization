@@ -356,7 +356,7 @@ class overfit_example():
         self.X_mapped, _ =  map_feature(self.X[:, 0], self.X[:, 1], self.degree)
         self.X_mapped_scaled, self.X_mu, self.X_sigma  = zscore_normalize_features(self.X_mapped)
         if not self.regularize or self.lambda_ == 0:
-            lr = LogisticRegression(penalty='none', max_iter=10000)
+            lr = LogisticRegression(penalty=None, max_iter=10000)
         else:
             C = 1/self.lambda_
             lr = LogisticRegression(C=C, max_iter=10000)
